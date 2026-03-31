@@ -85,9 +85,17 @@
 
 <br/>
 
-[![image-stitcher](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=image-stitcher&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/image-stitcher)
+[![zh-opc-monitor](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=zh-opc-monitor&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/zh-opc-monitor)
+&nbsp;
+[![-santaya.chat](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=-santaya.chat&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/-santaya.chat)
+
+[![breakout-game-api](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=breakout-game-api&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/breakout-game-api)
 &nbsp;
 [![ai-plan-assistant](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=ai-plan-assistant&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/ai-plan-assistant)
+
+[![image-stitcher](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=image-stitcher&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/image-stitcher)
+&nbsp;
+[![-](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=-&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/-)
 
 </div>
 
