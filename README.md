@@ -82,45 +82,7 @@
 
 <div align="center">
 
-### 🎯 技能图谱
-
-<br/>
-
-| | 领域 | 技能栈 | 熟练度 |
-|:---:|:---|:---|:---:|
-| 🤖 | **AI 产品力** | Product Thinking · 需求分析 · 用户洞察 · 竞品分析 | ▰▰▰▰▰▰▰▰▱▱ |
-| 🛠️ | **Vibecoding** | Cursor + Claude · Prompt Engineering · AI 协作 | ▰▰▰▰▰▰▰▱▱▱ |
-| 🎨 | **设计感知** | UI/UX 直觉 · 产品审美 · 用户体验 | ▰▰▰▰▰▰▰▱▱▱ |
-| 📱 | **App 开发** | Swift · SwiftUI · iOS 应用 | ▰▰▰▰▰▰▱▱▱▱ |
-| 🐍 | **工具 & 自动化** | Python · 数据处理 · 信息监控 | ▰▰▰▰▰▰▱▱▱▱ |
-
-</div>
-
----
-
-<div align="center">
-
-### 🗺️ 成长路线
-
-<br/>
-
-🌱 `2025.11` &ensp; 开启 GitHub 之旅，踏入 Vibecoding 的世界
-
-↓
-
-🌿 `2025.12` &ensp; 上线第一个 Python 项目 — OPC 一人公司监控系统
-
-↓
-
-🌸 `2026.01` &ensp; 从 0 到 1 独立完成 SnapLingo iOS App
-
-↓
-
-🌳 `2026.03` &ensp; 持续构建个人产品矩阵，探索 AI × 产品
-
-↓
-
-🎯 `Next` &emsp;&ensp; 深耕 OpenClaw，成为真正的 AI 产品创造者
+<img width="94%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/skills-timeline.png"/>
 
 </div>
 
