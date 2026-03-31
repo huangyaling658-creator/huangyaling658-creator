@@ -14,17 +14,19 @@
 
 <div align="center">
 
-### 💕 关于我 💕
+### 💕 About Me 💕
 
 </div>
 
-&emsp;🍁 职位：AI产品经理 ｜ OPC实践者
+<p align="center">
 
-&emsp;🌿 专注：vibecoding **+** openclaw **+** 技能创作
+🍁 **Position:** &ensp; AI Product Manager &ensp;|&ensp; OPC Practitioner
 
-&emsp;🤎 愿望：成为树，下一代扎根，向上生长
+🌿 **Focus:** &ensp; Vibecoding · OpenClaw · AI Skill Building
 
-<br/>
+🤎 **Aspiration:** &ensp; To be a tree — striking roots deep downward, growing tall upward.
+
+</p>
 
 ---
 
