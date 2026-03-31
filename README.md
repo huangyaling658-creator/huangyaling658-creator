@@ -18,63 +18,21 @@
 
 <div align="center">
 
-### 💕 一些小作品
+### ✨ 发现宝藏 ✨
 
 <br/>
 
-<table align="center" cellpadding="12" cellspacing="0">
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/SnapLingo"><b>📸 SnapLingo</b></a><br/><br/>
-<sub>拍照学外语 - AI拍照词汇学习iOS应用</sub><br/><br/>
-<img src="https://img.shields.io/badge/Swift-1A0D2E?style=flat-square&logo=swift&logoColor=E8829A"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/卡路里"><b>🔥 卡路里</b></a><br/><br/>
-<sub>轻而易举</sub><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-1A0D2E?style=flat-square&logo=javascript&logoColor=F4B8CC"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/语音记忆"><b>🎙️ 语音记忆</b></a><br/><br/>
-<sub>语音记录想法</sub><br/><br/>
-<img src="https://img.shields.io/badge/Swift-1A0D2E?style=flat-square&logo=swift&logoColor=9DC44A"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><b>🌿 zh-opc-monitor</b></a><br/><br/>
-<sub>珠海政府 OPC 一人公司信息监控</sub><br/><br/>
-<img src="https://img.shields.io/badge/Python-1A0D2E?style=flat-square&logo=python&logoColor=9DC44A"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/-santaya.chat"><b>💕 santaya.chat</b></a><br/><br/>
-<sub>个人站点</sub><br/><br/>
-<img src="https://img.shields.io/badge/Web-1A0D2E?style=flat-square&logo=google-chrome&logoColor=E8829A"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/breakout-game-api"><b>🎮 breakout-game</b></a><br/><br/>
-<sub>弹球游戏 API</sub><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-1A0D2E?style=flat-square&logo=javascript&logoColor=F4B8CC"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><b>📋 ai-plan-assistant</b></a><br/><br/>
-<sub>AI 计划助手</sub><br/><br/>
-<img src="https://img.shields.io/badge/HTML-1A0D2E?style=flat-square&logo=html5&logoColor=E8829A"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/image-stitcher"><b>🧩 image-stitcher</b></a><br/><br/>
-<sub>AI 拼图小工具</sub><br/><br/>
-<img src="https://img.shields.io/badge/HTML-1A0D2E?style=flat-square&logo=html5&logoColor=F4B8CC"/>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/huangyaling658-creator/-"><b>🖼️ img2046</b></a><br/><br/>
-<sub>图像编辑 & AI 图片生成工具</sub><br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-1A0D2E?style=flat-square&logo=typescript&logoColor=9DC44A"/>
-</td>
-</tr>
-</table>
+<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-1.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/卡路里"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-2.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/语音记忆"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-3.png" width="30%" /></a>
+
+<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-4.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/-santaya.chat"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-5.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/breakout-game-api"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-6.png" width="30%" /></a>
+
+<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-7.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-8.png" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/-"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/card-9.png" width="30%" /></a>
 
 </div>
 
