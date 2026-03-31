@@ -1,0 +1,181 @@
+# ============================================================
+#  🌸 GitHub Profile Generator — 配置文件
+#  只需修改此文件的内容，运行 generate_profile.py 即可生成全部资产
+# ============================================================
+
+# ------ GitHub 基本信息 ------
+github:
+  username: "huangyaling658-creator"       # GitHub 用户名
+  repo: "huangyaling658-creator"           # Profile 仓库名（通常同用户名）
+
+# ------ 顶部 Banner ------
+banner:
+  name: "Santaya"                          # 显示的英文名（使用花体字渲染）
+  greeting: "Hi, I'm"                      # 名字上方的小标题
+  subtitle: "欢迎光临我的代码世界"           # 名字下方的副标题
+  character_image: "assets/mitsuri-action.png"   # 人物图片路径（PNG，透明背景最佳）
+  # 渐变背景色（左上 → 右下）
+  gradient_start: [75, 45, 95]             # 深紫
+  gradient_end: [120, 75, 115]             # 粉紫
+  text_gap: 20                             # 文字与人物之间的间距(px)
+
+# ------ About Me 个人介绍 ------
+about_me:
+  - emoji: "🍁"
+    label: "Position"
+    value: "AI Product Manager &ensp;|&ensp; OPC Practitioner"
+  - emoji: "🌿"
+    label: "Focus"
+    value: "Vibecoding · OpenClaw · AI Skill Building"
+  - emoji: "🤎"
+    label: "Aspiration"
+    value: "To be a tree — striking roots deep downward, growing tall upward."
+
+# ------ 作品展示 ------
+projects:
+  section_title: "我的作品"
+  cards:
+    - name: "SnapLingo"
+      desc: "拍照学外语"
+      tech: "Swift"
+      repo: "SnapLingo"                     # 仓库名（用于链接）
+      color_top: [245, 180, 195]            # 卡片顶部渐变色
+      color_bottom: [235, 155, 175]         # 卡片底部渐变色
+
+    - name: "卡路里"
+      desc: "轻而易举"
+      tech: "JavaScript"
+      repo: "卡路里"
+      color_top: [190, 215, 120]
+      color_bottom: [165, 200, 95]
+
+    - name: "语音记忆"
+      desc: "语音记录想法"
+      tech: "Swift"
+      repo: "语音记忆"
+      color_top: [250, 200, 210]
+      color_bottom: [240, 175, 195]
+
+    - name: "zh-opc-monitor"
+      desc: "OPC 信息监控"
+      tech: "Python"
+      repo: "zh-opc-monitor"
+      color_top: [170, 215, 145]
+      color_bottom: [145, 195, 120]
+
+    - name: "santaya.chat"
+      desc: "个人站点"
+      tech: "Web"
+      repo: "-santaya.chat"
+      color_top: [240, 170, 190]
+      color_bottom: [225, 145, 170]
+
+    - name: "breakout-game"
+      desc: "弹球游戏"
+      tech: "JavaScript"
+      repo: "breakout-game-api"
+      color_top: [200, 225, 140]
+      color_bottom: [180, 210, 115]
+
+    - name: "ai-plan-assistant"
+      desc: "AI 计划助手"
+      tech: "HTML"
+      repo: "ai-plan-assistant"
+      color_top: [250, 195, 210]
+      color_bottom: [240, 170, 190]
+
+    - name: "image-stitcher"
+      desc: "AI 拼图工具"
+      tech: "HTML"
+      repo: "image-stitcher"
+      color_top: [185, 220, 155]
+      color_bottom: [165, 205, 130]
+
+    - name: "img2046"
+      desc: "AI 图片生成工具"
+      tech: "TypeScript"
+      repo: "-"
+      color_top: [245, 185, 200]
+      color_bottom: [230, 160, 180]
+
+# ------ 技能图谱 ------
+skills:
+  section_title: "我的技能"
+  background_image: "assets/mitsuri-bg.png"    # 技能背景图（人物/插画）
+  background_opacity: 0.4                       # 背景图透明度 (0.0~1.0)
+  overlay_color: [240, 200, 220, 50]            # 蒙层颜色 RGBA
+  items:
+    - name: "AI 产品力"
+      percent: 80
+      color: [232, 130, 154]                    # 进度条颜色
+      desc: "需求分析 · 用户洞察 · 竞品分析"
+    - name: "Vibecoding"
+      percent: 70
+      color: [200, 100, 140]
+      desc: "Cursor + Claude · Prompt Eng"
+    - name: "设计感知"
+      percent: 70
+      color: [240, 180, 100]
+      desc: "UI/UX 直觉 · 产品审美"
+    - name: "App 开发"
+      percent: 55
+      color: [157, 196, 74]
+      desc: "Swift · SwiftUI · iOS"
+    - name: "工具 & 自动化"
+      percent: 55
+      color: [120, 100, 180]
+      desc: "Python · 数据处理 · 监控"
+
+# ------ 成长路线 ------
+timeline:
+  items:
+    - date: "2025.11"
+      title: "启程"
+      color: [232, 130, 154]
+      lines:
+        - "开启 GitHub 之旅"
+        - "踏入 Vibecoding 的世界"
+    - date: "2025.12"
+      title: "破壳"
+      color: [157, 196, 74]
+      lines:
+        - "上线第一个 Python 项目"
+        - "OPC 一人公司监控系统"
+    - date: "2026.01"
+      title: "绽放"
+      color: [232, 130, 154]
+      lines:
+        - "从 0 到 1 独立完成"
+        - "SnapLingo iOS App"
+    - date: "2026.03"
+      title: "生长"
+      color: [120, 100, 180]
+      lines:
+        - "持续构建个人产品矩阵"
+        - "探索 AI × 产品的可能"
+    - date: "Next"
+      title: "未来"
+      color: [120, 100, 180]
+      lines:
+        - "深耕 OpenClaw"
+        - "成为 AI 产品创造者"
+
+# ------ 近日足迹（活动图） ------
+activity:
+  section_title: "近日足迹"
+  # 活动图配色（需与整体风格匹配）
+  bg_color: "1A0D2E"
+  text_color: "E8829A"
+  line_color: "C4527A"
+  point_color: "9DC44A"
+  area_color: "3D1558"
+
+# ------ 全局样式 ------
+style:
+  section_emoji: "💕"          # 每个板块标题前的 emoji
+  card_width: 340              # 作品卡片宽度(px)
+  card_height: 150             # 作品卡片高度(px)
+  banner_width: 1200           # Banner 宽度(px)
+  banner_height: 300           # Banner 高度(px)
+  skills_width: 1200           # 技能图宽度(px)
+  skills_height: 650           # 技能图高度(px)
