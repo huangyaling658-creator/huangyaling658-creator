@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0D2E,30:3D1558,60:C4527A,100:E8829A&height=200&section=header&text=🌸%20黄%20雅%20玲%20🌸&fontSize=48&fontColor=FFE8F0&fontAlignY=40&desc=恋%20爱%20与%20代%20码%20并%20存%20·%20甜%20而%20飒&descAlignY=60&descColor=F4B8CC&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0D2E,30:3D1558,60:C4527A,100:E8829A&height=200&section=header&text=💕%20Santaya%20💕&fontSize=48&fontColor=FFE8F0&fontAlignY=40&desc=恋%20爱%20与%20代%20码%20并%20存%20·%20甜%20而%20飒&descAlignY=60&descColor=F4B8CC&animation=fadeIn"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### 🌸 关于我 🌸
+### 💕 关于我 💕
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-### 🌸 近日足迹
+### 💕 近日足迹
 
 <br/>
 
