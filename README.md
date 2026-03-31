@@ -3,10 +3,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner.png"/>
 <img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/typing-banner.svg"/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=huangyaling658-creator&style=flat-square&color=C4527A&label=💕%20来访)](https://github.com/huangyaling658-creator)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/huangyaling658-creator?style=flat-square&color=C4527A&label=关注)](https://github.com/huangyaling658-creator?tab=followers)
-
 </div>
 
 ---
