@@ -90,18 +90,6 @@
 
 <div align="center">
 
-### ⚔️ 修行战绩 ⚔️
-
-<br/>
-
-<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=huangyaling658-creator&hide_border=true&background=1A0D2E&ring=C4527A&fire=E8829A&currStreakLabel=E8829A&sideLabels=F4B8CC&dates=7B4FA0&sideNums=FFE8F0&currStreakNum=FFE8F0"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💕 近日足迹
 
 <br/>
