@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner.png"/>
 <img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/typing-banner.svg"/>
-<img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner-wave.png"/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=huangyaling658-creator&style=flat-square&color=C4527A&label=💕%20来访)](https://github.com/huangyaling658-creator)
 &nbsp;
