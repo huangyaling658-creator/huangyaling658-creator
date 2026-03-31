@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub 主页预览 · 恋柱风</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0d0818;
+    color: #F4B8CC;
+    font-family: "PingFang SC", "Hiragino Sans GB", -apple-system, sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+    line-height: 1.75;
+  }
+
+  /* ── 全屏角色背景 ── */
+  .bg-character {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .bg-character img {
+    height: 100vh;
+    max-height: 100vh;
+    width: auto;
+    object-fit: contain;
+    object-position: right center;
+    opacity: 0.13;
+    filter: saturate(1.4) blur(0.5px);
+  }
+  /* 蒙层：黄绿+珊瑚粉混合渐变 */
+  .bg-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    background:
+      radial-gradient(ellipse 70% 60% at 20% 50%, rgba(157,196,74,0.18) 0%, transparent 70%),
+      radial-gradient(ellipse 60% 70% at 80% 40%, rgba(232,130,154,0.16) 0%, transparent 70%),
+      radial-gradient(ellipse 80% 40% at 50% 100%, rgba(196,82,122,0.12) 0%, transparent 60%),
+      linear-gradient(160deg, rgba(13,8,24,0.82) 0%, rgba(26,13,46,0.75) 40%, rgba(13,8,24,0.85) 100%);
+    pointer-events: none;
+  }
+
+  /* ── 粒子层（飘带 + 泡泡） ── */
+  .particles {
+    position: fixed;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    overflow: hidden;
+  }
+
+  /* 飘带 */
+  .ribbon {
+    position: absolute;
+    border-radius: 50% 20% 50% 20%;
+    animation: ribbon-drift ease-in-out infinite;
+    opacity: 0;
+    transform-origin: center;
+  }
+  @keyframes ribbon-drift {
+    0%   { transform: translateY(-40px) translateX(0) rotate(0deg) scaleX(1); opacity:0; }
+    10%  { opacity: var(--op); }
+    45%  { transform: translateY(40vh) translateX(var(--dx1)) rotate(160deg) scaleX(0.7); opacity: calc(var(--op)*0.8); }
+    90%  { opacity: calc(var(--op)*0.4); }
+    100% { transform: translateY(105vh) translateX(var(--dx2)) rotate(320deg) scaleX(1.1); opacity:0; }
+  }
+
+  /* 泡泡 */
+  .bubble {
+    position: absolute;
+    border-radius: 50%;
+    animation: bubble-rise linear infinite;
+    opacity: 0;
+  }
+  @keyframes bubble-rise {
+    0%   { transform: translateY(0) scale(1) translateX(0); opacity:0; }
+    8%   { opacity: var(--op); }
+    50%  { transform: translateY(-45vh) scale(1.05) translateX(var(--dx)); }
+    88%  { opacity: calc(var(--op)*0.3); }
+    100% { transform: translateY(-100vh) scale(0.9) translateX(calc(var(--dx)*1.3)); opacity:0; }
+  }
+
+  /* ── header ── */
+  .header {
+    position: relative; z-index: 3;
+    background: linear-gradient(160deg, rgba(26,13,46,0.96) 0%, rgba(61,21,88,0.9) 40%, rgba(196,82,122,0.7) 75%, rgba(232,130,154,0.55) 100%);
+    padding: 52px 24px 80px;
+    text-align: center;
+    overflow: hidden;
+    border-bottom: 1px solid rgba(232,130,154,0.15);
+  }
+  .header::after {
+    content: '';
+    position: absolute;
+    bottom: -2px; left: 0; right: 0; height: 55px;
+    background: url("data:image/svg+xml,%3Csvg viewBox='0 0 1440 55' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,28 C240,5 480,52 720,28 C960,5 1200,52 1440,28 L1440,55 L0,55Z' fill='%230d0818'/%3E%3C/svg%3E") no-repeat bottom/cover;
+  }
+  .header h1 {
+    font-size: clamp(2rem, 5vw, 2.8rem);
+    font-weight: 600;
+    color: #FFE8F0;
+    letter-spacing: 0.28em;
+    position: relative; z-index: 1;
+    text-shadow: 0 0 28px rgba(232,130,154,0.45), 0 2px 12px rgba(0,0,0,0.4);
+  }
+  .header .sub {
+    margin-top: 10px;
+    font-size: 0.92rem;
+    color: #F4B8CC;
+    letter-spacing: 0.2em;
+    position: relative; z-index: 1;
+  }
+
+  /* ── character hero ── */
+  .char-wrap {
+    text-align: center;
+    margin: -28px 0 4px;
+    position: relative; z-index: 3;
+  }
+  .char-wrap img {
+    width: min(300px, 72vw);
+    filter: drop-shadow(0 0 28px rgba(232,130,154,0.4)) drop-shadow(0 16px 40px rgba(0,0,0,0.6));
+  }
+
+  /* ── typing ── */
+  .typing-area {
+    text-align: center;
+    height: 30px;
+    position: relative; z-index: 3;
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+  .typing-area span {
+    display: block;
+    position: absolute;
+    width: 100%;
+    font-size: 0.98rem;
+    color: #E8829A;
+    opacity: 0;
+    animation: txtin 10.5s ease-in-out infinite;
+    letter-spacing: 0.08em;
+  }
+  .typing-area span:nth-child(2) { animation-delay: 3.5s; }
+  .typing-area span:nth-child(3) { animation-delay: 7s; }
+  @keyframes txtin {
+    0%,5% { opacity:0; transform:translateY(8px); }
+    12%,28% { opacity:1; transform:translateY(0); }
+    33%,100% { opacity:0; transform:translateY(-8px); }
+  }
+
+  /* ── badge row ── */
+  .badge-row { text-align:center; margin-bottom:12px; position:relative; z-index:3; }
+  .visit-badge {
+    display:inline-block; padding:4px 14px;
+    background:rgba(196,82,122,0.2);
+    border:1px solid rgba(232,130,154,0.3);
+    border-radius:6px; font-size:0.78rem; color:#E8829A; margin:3px;
+  }
+
+  /* ── container ── */
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 0 20px 48px;
+    position: relative; z-index: 3;
+  }
+
+  hr {
+    border:none; height:1px; margin:28px 0;
+    background: linear-gradient(90deg, transparent, rgba(232,130,154,0.5), rgba(157,196,74,0.35), rgba(232,130,154,0.5), transparent);
+  }
+
+  .stitle {
+    text-align:center; font-size:1rem;
+    color:#E8829A; margin-bottom:16px; letter-spacing:0.1em;
+  }
+
+  /* ── about ── */
+  .about {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 22px 28px;
+    background: rgba(26,13,46,0.65);
+    border: 1px solid rgba(232,130,154,0.2);
+    border-left: 3px solid #E8829A;
+    border-radius: 14px;
+    font-size: 0.92rem;
+    line-height: 2.4;
+    backdrop-filter: blur(8px);
+  }
+  .about .row { display:flex; align-items:baseline; gap:10px; }
+  .about .label { color:#9DC44A; font-size:0.8rem; white-space:nowrap; min-width:32px; }
+  .about .val { color:#FFE8F0; }
+
+  /* ── tags ── */
+  .tags { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
+  .tag {
+    padding:6px 18px; border-radius:6px;
+    font-size:0.8rem; font-weight:600; color:white;
+    letter-spacing:0.05em; transition:transform 0.2s;
+  }
+  .tag:hover { transform:translateY(-2px) scale(1.05); }
+
+  /* ── stats ── */
+  .stats-row { display:flex; gap:14px; flex-wrap:wrap; justify-content:center; }
+  .stat-card {
+    flex:1; min-width:260px; max-width:390px;
+    background:rgba(26,13,46,0.6);
+    border:1px solid rgba(232,130,154,0.15);
+    border-radius:14px; padding:12px;
+    backdrop-filter:blur(4px);
+  }
+  .stat-card img { width:100%; border-radius:10px; }
+
+  /* ── skills ── */
+  .skills { display:flex; flex-wrap:wrap; justify-content:center; gap:10px; }
+  .skill {
+    padding:6px 16px;
+    background:rgba(26,13,46,0.7);
+    border:1px solid rgba(232,130,154,0.2);
+    border-radius:8px; font-size:0.78rem; color:#E8829A;
+    transition:all 0.25s;
+  }
+  .skill:hover {
+    background:rgba(157,196,74,0.15);
+    border-color:#9DC44A; color:#9DC44A;
+    transform:translateY(-2px);
+  }
+
+  /* ── activity ── */
+  .act-wrap {
+    background:rgba(26,13,46,0.5);
+    border-radius:14px; padding:12px;
+    border:1px solid rgba(232,130,154,0.12);
+  }
+  .act-wrap img { width:100%; border-radius:10px; display:block; }
+
+  /* ── projects ── */
+  .projects { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+  @media(max-width:560px){ .projects{ grid-template-columns:1fr; } }
+  .project {
+    background:rgba(61,21,88,0.35);
+    border:1px solid rgba(232,130,154,0.15);
+    border-radius:14px; padding:16px;
+    transition:all 0.25s; backdrop-filter:blur(4px);
+  }
+  .project:hover {
+    border-color:rgba(157,196,74,0.5);
+    transform:translateY(-2px);
+    box-shadow:0 8px 24px rgba(232,130,154,0.1);
+  }
+  .project h4 { color:#E8829A; font-size:0.88rem; font-weight:500; margin-bottom:4px; }
+  .project p { color:#7B4FA0; font-size:0.8rem; }
+
+  /* ── footer ── */
+  .footer {
+    text-align:center; padding:20px 20px 0;
+    color:#C4527A; font-size:0.9rem; font-style:italic;
+    position:relative; z-index:3;
+  }
+  .footer-wave {
+    height:100px; position:relative; overflow:hidden; margin-top:20px; z-index:3;
+    background:linear-gradient(160deg,#e8829a 0%,#c4527a 30%,#3d1558 65%,#1a0d2e 100%);
+  }
+  .footer-wave::before {
+    content:''; position:absolute;
+    top:-2px; left:0; right:0; height:44px;
+    background:url("data:image/svg+xml,%3Csvg viewBox='0 0 1440 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0,22 C360,5 720,42 1080,18 C1260,8 1380,35 1440,22 L1440,0 L0,0Z' fill='%230d0818'/%3E%3C/svg%3E") no-repeat top/cover;
+  }
+</style>
+</head>
+<body>
+
+<!-- 角色背景 -->
+<div class="bg-character">
+  <img src="assets/mitsuri-action.png" alt=""/>
+</div>
+<div class="bg-overlay"></div>
+
+<!-- 粒子层 -->
+<div class="particles" id="particles"></div>
+
+<header class="header">
+  <h1>🌸 黄 雅 玲 🌸</h1>
+  <p class="sub">恋 爱 与 代 码 并 存 · 甜 而 飒</p>
+</header>
+
+<div class="char-wrap">
+  <img src="assets/mitsuri-action.png" alt="角色"/>
+</div>
+
+<div class="typing-area">
+  <span>代码界的新兵蛋子</span>
+  <span>甜美 × 活力 × 温柔 × 坚韧</span>
+  <span>OPC 实践者</span>
+</div>
+
+<div class="badge-row">
+  <span class="visit-badge">💕 来访</span>
+  <span class="visit-badge">✨ 关注</span>
+</div>
+
+<div class="container">
+
+  <hr>
+  <div class="stitle">🌸 关于我 🌸</div>
+  <div class="about">
+    <div class="row">
+      <span class="label">🍁 职位</span>
+      <span class="val">AI产品经理 ｜ OPC实践者</span>
+    </div>
+    <div class="row">
+      <span class="label">🌿 专注</span>
+      <span class="val">vibecoding <b style="color:#E8829A">+</b> openclaw <b style="color:#E8829A">+</b> 技能创作</span>
+    </div>
+    <div class="row">
+      <span class="label">🤎 愿望</span>
+      <span class="val">成为树，下一代扎根，向上生长</span>
+    </div>
+  </div>
+
+  <hr>
+  <div class="stitle">💕 一些标签</div>
+  <div class="tags">
+    <span class="tag" style="background:#E8829A">不务正业</span>
+    <span class="tag" style="background:#9DC44A">产品经理</span>
+    <span class="tag" style="background:#C4527A">随便CODING</span>
+    <span class="tag" style="background:#7B4FA0">新想法</span>
+    <span class="tag" style="background:#F4B8CC;color:#3D1558">SKILL</span>
+  </div>
+
+  <hr>
+  <div class="stitle">⚔️ 修行战绩 ⚔️</div>
+  <div class="stats-row">
+    <div class="stat-card">
+      <img src="https://github-readme-stats.vercel.app/api?username=huangyaling658-creator&show_icons=true&hide_border=true&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&count_private=true" alt="stats" onerror="this.alt='需联网'"/>
+    </div>
+    <div class="stat-card">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=huangyaling658-creator&hide_border=true&background=1A0D2E&ring=C4527A&fire=E8829A&currStreakLabel=E8829A&sideLabels=F4B8CC&dates=7B4FA0&sideNums=FFE8F0&currStreakNum=FFE8F0" alt="streak" onerror="this.alt='需联网'"/>
+    </div>
+  </div>
+
+  <hr>
+  <div class="stitle">🌿 武器库 · 所学所用</div>
+  <div class="skills">
+    <span class="skill">Python</span>
+    <span class="skill">JavaScript</span>
+    <span class="skill">HTML5</span>
+    <span class="skill">CSS3</span>
+    <span class="skill">AI</span>
+    <span class="skill">Figma</span>
+    <span class="skill">产品</span>
+  </div>
+
+  <hr>
+  <div class="stitle">🌸 近日足迹</div>
+  <div class="act-wrap">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=huangyaling658-creator&bg_color=1A0D2E&color=E8829A&line=C4527A&point=9DC44A&area=true&hide_border=true&area_color=3D1558" alt="activity" onerror="this.style.display='none'"/>
+  </div>
+
+  <hr>
+  <div class="stitle">💕 一些小作品</div>
+  <div class="projects">
+    <div class="project"><h4>💕 image-stitcher</h4><p>Ai 拼图小工具</p></div>
+    <div class="project"><h4>🌸 ai-plan-assistant</h4><p>AI 计划助手</p></div>
+    <div class="project"><h4>⚔️ breakout-game-api</h4><p>弹球游戏</p></div>
+    <div class="project"><h4>🌿 zh-opc-monitor</h4><p>珠海 OPC 监控</p></div>
+  </div>
+
+  <div class="footer">💕 恋爱与代码，我全都要 💕</div>
+</div>
+
+<div class="footer-wave"></div>
+
+<script>
+const layer = document.getElementById('particles');
+
+// ── 飘带 ──
+const ribbonColors = [
+  'rgba(232,130,154,VAL)',
+  'rgba(196,82,122,VAL)',
+  'rgba(157,196,74,VAL)',
+  'rgba(244,184,204,VAL)',
+  'rgba(123,79,160,VAL)',
+];
+for (let i = 0; i < 18; i++) {
+  const el = document.createElement('div');
+  el.className = 'ribbon';
+  const w = 30 + Math.random() * 90;
+  const h = 6 + Math.random() * 14;
+  const col = ribbonColors[Math.floor(Math.random() * ribbonColors.length)];
+  const op = (0.35 + Math.random() * 0.45).toFixed(2);
+  const dx1 = ((Math.random() - 0.5) * 80).toFixed(0);
+  const dx2 = ((Math.random() - 0.5) * 140).toFixed(0);
+  const dur = 7 + Math.random() * 9;
+  el.style.cssText = `
+    left: ${Math.random() * 100}%;
+    top: ${-10 + Math.random() * 20}%;
+    width: ${w}px; height: ${h}px;
+    background: ${col.replace('VAL', op)};
+    --op: ${op}; --dx1: ${dx1}px; --dx2: ${dx2}px;
+    animation-duration: ${dur}s;
+    animation-delay: ${Math.random() * dur}s;
+    transform-origin: ${30 + Math.random() * 40}% 50%;
+  `;
+  layer.appendChild(el);
+}
+
+// ── 粉色泡泡 ──
+const bubbleColors = [
+  { bg: 'rgba(232,130,154,OP)', border: 'rgba(244,184,204,BO)' },
+  { bg: 'rgba(157,196,74,OP)',  border: 'rgba(157,196,74,BO)' },
+  { bg: 'rgba(196,82,122,OP)',  border: 'rgba(232,130,154,BO)' },
+  { bg: 'rgba(255,232,240,OP)', border: 'rgba(244,184,204,BO)' },
+];
+for (let i = 0; i < 20; i++) {
+  const el = document.createElement('div');
+  el.className = 'bubble';
+  const size = 8 + Math.random() * 22;
+  const c = bubbleColors[Math.floor(Math.random() * bubbleColors.length)];
+  const op = (0.15 + Math.random() * 0.25).toFixed(2);
+  const bo = (0.3 + Math.random() * 0.3).toFixed(2);
+  const dx = ((Math.random() - 0.5) * 60).toFixed(0);
+  const dur = 8 + Math.random() * 12;
+  el.style.cssText = `
+    left: ${Math.random() * 100}%;
+    bottom: ${Math.random() * 20}%;
+    width: ${size}px; height: ${size}px;
+    background: ${c.bg.replace('OP', op)};
+    border: 1px solid ${c.border.replace('BO', bo)};
+    --op: ${op}; --dx: ${dx}px;
+    animation-duration: ${dur}s;
+    animation-delay: ${Math.random() * dur}s;
+  `;
+  layer.appendChild(el);
+}
+</script>
+</body>
+</html>
