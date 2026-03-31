@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### ✨ 发现宝藏 ✨
+### 💕 我的作品
 
 <br/>
 
@@ -39,6 +39,10 @@
 ---
 
 <div align="center">
+
+### 💕 我的技能
+
+<br/>
 
 <img width="94%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/skills-timeline.png"/>
 
