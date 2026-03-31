@@ -15,17 +15,24 @@
 
 ### 💕 About Me 💕
 
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td bgcolor="#FFF0F5" align="center" valign="middle" width="220">
+<br/>
+<img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/mitsuri-action.png" width="180"/>
+<br/><br/>
+</td>
+<td bgcolor="#F0FFF0" align="left" valign="middle" width="480">
+&emsp; 🍁 <b>Position:</b> AI Product Manager | OPC Practitioner <br/>
+&emsp; 🌿 <b>Focus:</b> Vibecoding · OpenClaw · AI Skill Building <br/>
+&emsp; 🤎 <b>Aspiration:</b> To be a tree — striking roots deep <br/>
+&emsp;&emsp;&ensp; downward, growing tall upward.
+<br/><br/>
+</td>
+</tr>
+</table>
+
 </div>
-
-<p align="center">
-
-🍁 **Position:** &ensp; AI Product Manager &ensp;|&ensp; OPC Practitioner
-
-🌿 **Focus:** &ensp; Vibecoding · OpenClaw · AI Skill Building
-
-🤎 **Aspiration:** &ensp; To be a tree — striking roots deep downward, growing tall upward.
-
-</p>
 
 ---
 
