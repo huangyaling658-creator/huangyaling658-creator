@@ -1,8 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner.png"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=22&duration=3000&pause=1500&color=E8829A&center=true&vCenter=true&width=460&lines=恋爱与代码并存+·+甜而飒;OPC+实践者;代码界的新兵蛋子;甜美+×+活力+×+温柔+×+坚韧)](https://git.io/typing-svg)
+<a href="https://github.com/huangyaling658-creator"><img width="100%" src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=24&duration=3000&pause=1500&color=FFE8F0&background=E8829A&center=true&vCenter=true&width=800&height=45&lines=恋爱与代码并存+·+甜而飒;OPC+实践者;代码界的新兵蛋子;甜美+×+活力+×+温柔+×+坚韧"/></a>
+<img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner-wave.png"/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=huangyaling658-creator&style=flat-square&color=C4527A&label=💕%20来访)](https://github.com/huangyaling658-creator)
 &nbsp;
