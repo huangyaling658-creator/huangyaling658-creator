@@ -1,14 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner.png"/>
-<img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/typing-banner.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/aboutme-card.png" width="92%"/>
 
 </div>
@@ -117,15 +108,5 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=huangyaling658-creator&bg_color=1A0D2E&color=E8829A&line=C4527A&point=9DC44A&area=true&hide_border=true&area_color=3D1558" width="94%"/>
-
-</div>
-
-<div align="center">
-
-*💕 恋爱与代码，我全都要 💕*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E8829A,40:C4527A,70:3D1558,100:1A0D2E&height=120&section=footer&reversal=true"/>
 
 </div>
