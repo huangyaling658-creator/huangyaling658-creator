@@ -82,13 +82,57 @@
 
 <div align="center">
 
+### 🎯 技能图谱
+
+<br/>
+
+| | 领域 | 技能栈 | 熟练度 |
+|:---:|:---|:---|:---:|
+| 🤖 | **AI 产品力** | Product Thinking · 需求分析 · 用户洞察 · 竞品分析 | ▰▰▰▰▰▰▰▰▱▱ |
+| 🛠️ | **Vibecoding** | Cursor + Claude · Prompt Engineering · AI 协作 | ▰▰▰▰▰▰▰▱▱▱ |
+| 🎨 | **设计感知** | UI/UX 直觉 · 产品审美 · 用户体验 | ▰▰▰▰▰▰▰▱▱▱ |
+| 📱 | **App 开发** | Swift · SwiftUI · iOS 应用 | ▰▰▰▰▰▰▱▱▱▱ |
+| 🐍 | **工具 & 自动化** | Python · 数据处理 · 信息监控 | ▰▰▰▰▰▰▱▱▱▱ |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗺️ 成长路线
+
+<br/>
+
+🌱 `2025.11` &ensp; 开启 GitHub 之旅，踏入 Vibecoding 的世界
+
+↓
+
+🌿 `2025.12` &ensp; 上线第一个 Python 项目 — OPC 一人公司监控系统
+
+↓
+
+🌸 `2026.01` &ensp; 从 0 到 1 独立完成 SnapLingo iOS App
+
+↓
+
+🌳 `2026.03` &ensp; 持续构建个人产品矩阵，探索 AI × 产品
+
+↓
+
+🎯 `Next` &emsp;&ensp; 深耕 OpenClaw，成为真正的 AI 产品创造者
+
+</div>
+
+---
+
+<div align="center">
+
 ### ⚔️ 修行战绩 ⚔️
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=huangyaling658-creator&show_icons=true&hide_border=true&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&ring_color=C4527A&count_private=true"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=huangyaling658-creator&hide_border=true&background=1A0D2E&ring=C4527A&fire=E8829A&currStreakLabel=E8829A&sideLabels=F4B8CC&dates=7B4FA0&sideNums=FFE8F0&currStreakNum=FFE8F0"/>
+<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=huangyaling658-creator&hide_border=true&background=1A0D2E&ring=C4527A&fire=E8829A&currStreakLabel=E8829A&sideLabels=F4B8CC&dates=7B4FA0&sideNums=FFE8F0&currStreakNum=FFE8F0"/>
 
 </div>
 
