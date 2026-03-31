@@ -25,6 +25,23 @@
 <table align="center" cellpadding="12" cellspacing="0">
 <tr>
 <td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/SnapLingo"><b>📸 SnapLingo</b></a><br/><br/>
+<sub>拍照学外语 - AI拍照词汇学习iOS应用</sub><br/><br/>
+<img src="https://img.shields.io/badge/Swift-1A0D2E?style=flat-square&logo=swift&logoColor=E8829A"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/卡路里"><b>🔥 卡路里</b></a><br/><br/>
+<sub>轻而易举</sub><br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-1A0D2E?style=flat-square&logo=javascript&logoColor=F4B8CC"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/语音记忆"><b>🎙️ 语音记忆</b></a><br/><br/>
+<sub>语音记录想法</sub><br/><br/>
+<img src="https://img.shields.io/badge/Swift-1A0D2E?style=flat-square&logo=swift&logoColor=9DC44A"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 <a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><b>🌿 zh-opc-monitor</b></a><br/><br/>
 <sub>珠海政府 OPC 一人公司信息监控</sub><br/><br/>
 <img src="https://img.shields.io/badge/Python-1A0D2E?style=flat-square&logo=python&logoColor=9DC44A"/>
