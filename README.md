@@ -81,17 +81,42 @@
 
 <br/>
 
-[![zh-opc-monitor](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=zh-opc-monitor&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/zh-opc-monitor)
-&nbsp;
-[![-santaya.chat](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=-santaya.chat&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/-santaya.chat)
-
-[![breakout-game-api](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=breakout-game-api&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/breakout-game-api)
-&nbsp;
-[![ai-plan-assistant](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=ai-plan-assistant&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/ai-plan-assistant)
-
-[![image-stitcher](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=image-stitcher&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/image-stitcher)
-&nbsp;
-[![-](https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=-&bg_color=1A0D2E&title_color=E8829A&icon_color=9DC44A&text_color=F4B8CC&hide_border=true)](https://github.com/huangyaling658-creator/-)
+<table align="center" cellpadding="12" cellspacing="0">
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><b>🌿 zh-opc-monitor</b></a><br/><br/>
+<sub>珠海政府 OPC 一人公司信息监控</sub><br/><br/>
+<img src="https://img.shields.io/badge/Python-1A0D2E?style=flat-square&logo=python&logoColor=9DC44A"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/-santaya.chat"><b>💕 santaya.chat</b></a><br/><br/>
+<sub>个人站点</sub><br/><br/>
+<img src="https://img.shields.io/badge/Web-1A0D2E?style=flat-square&logo=google-chrome&logoColor=E8829A"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/breakout-game-api"><b>🎮 breakout-game</b></a><br/><br/>
+<sub>弹球游戏 API</sub><br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-1A0D2E?style=flat-square&logo=javascript&logoColor=F4B8CC"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><b>📋 ai-plan-assistant</b></a><br/><br/>
+<sub>AI 计划助手</sub><br/><br/>
+<img src="https://img.shields.io/badge/HTML-1A0D2E?style=flat-square&logo=html5&logoColor=E8829A"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/image-stitcher"><b>🧩 image-stitcher</b></a><br/><br/>
+<sub>AI 拼图小工具</sub><br/><br/>
+<img src="https://img.shields.io/badge/HTML-1A0D2E?style=flat-square&logo=html5&logoColor=F4B8CC"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/huangyaling658-creator/-"><b>🖼️ img2046</b></a><br/><br/>
+<sub>图像编辑 & AI 图片生成工具</sub><br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-1A0D2E?style=flat-square&logo=typescript&logoColor=9DC44A"/>
+</td>
+</tr>
+</table>
 
 </div>
 
