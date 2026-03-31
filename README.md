@@ -1,14 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0D2E,30:3D1558,60:C4527A,100:E8829A&height=300&section=header&text=💕%20Santaya%20💕&fontSize=48&fontColor=FFE8F0&fontAlignY=28&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/banner.png"/>
 
-<img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/mitsuri-action.png" width="280" style="margin-top: -220px; position: relative; z-index: 10;"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=22&duration=3000&pause=1500&color=F4B8CC&center=true&vCenter=true&width=460&lines=恋爱与代码并存+·+甜而飒;OPC+实践者;代码界的新兵蛋子;甜美+×+活力+×+温柔+×+坚韧)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=22&duration=3000&pause=1500&color=E8829A&center=true&vCenter=true&width=460&lines=恋爱与代码并存+·+甜而飒;OPC+实践者;代码界的新兵蛋子;甜美+×+活力+×+温柔+×+坚韧)](https://git.io/typing-svg)
 
 [![Visitors](https://komarev.com/ghpvc/?username=huangyaling658-creator&style=flat-square&color=C4527A&label=💕%20来访)](https://github.com/huangyaling658-creator)
 &nbsp;
