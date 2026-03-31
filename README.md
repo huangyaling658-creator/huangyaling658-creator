@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=20&duration=3000&pause=1500&color=E8829A&center=true&vCenter=true&width=440&lines=💕+既可以温柔，也可以很飒+💕;🌸+每天进步一点点，比昨天更好+🌸;⚔️+以代码为刃，闯出自己的路+⚔️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=20&duration=3000&pause=1500&color=E8829A&center=true&vCenter=true&width=440&lines=代码界的新兵蛋子;甜美+×+活力+×+温柔+×+坚韧;OPC+实践者)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,11 +28,11 @@
 
 </div>
 
-&emsp;💕 充满好奇心的探索者 ｜ 🌿 喜欢新鲜事物的文科生
+&emsp;🍁 职位：AI产品经理 ｜ OPC实践者
 
-&emsp;🌸 正在努力学习新知识，每天进步一点点
+&emsp;🌿 专注：vibecoding **+** openclaw **+** 技能创作
 
-&emsp;⚔️ 既温柔又飒气，欢迎来交朋友！
+&emsp;🤎 愿望：成为树，下一代扎根，向上生长
 
 <br/>
 
