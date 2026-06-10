@@ -4,9 +4,6 @@
       <stop offset="0%" style="stop-color:#C3D49A;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#A9BE7C;stop-opacity:1" />
     </linearGradient>
-    <clipPath id="cardclip_7">
-      <rect x="10" y="55" width="440" height="185" rx="22" ry="22"/>
-    </clipPath>
   </defs>
 
   <!-- 卡片主体 -->
@@ -16,22 +13,18 @@
   <circle cx="72" cy="55" r="36" fill="white"/>
   <text x="72" y="68" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', Georgia, sans-serif" font-size="34" font-weight="bold" fill="#5B2A6E" text-anchor="middle">W</text>
 
-  <!-- 标题：贴纸描边效果，骑跨顶边 -->
-  <text x="125" y="68" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', sans-serif" font-size="32" font-weight="900" fill="#6B5B6B" stroke="white" stroke-width="6" paint-order="stroke" stroke-linejoin="round">WeChat2MD</text>
+  <!-- 标题：白字 + 深灰描边 -->
+  <text x="125" y="70" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', sans-serif" font-size="34" font-weight="900" fill="white" stroke="#6B6B6B" stroke-width="2.5" paint-order="stroke" stroke-linejoin="round">WeChat2MD</text>
 
-  <!-- 描述：小号，也带细描边 -->
-  <text x="125" y="96" font-family="'Hiragino Sans', -apple-system, sans-serif" font-size="16" font-weight="600" fill="#6B5B6B" stroke="white" stroke-width="3" paint-order="stroke" stroke-linejoin="round">公众号文章转 Markdown</text>
+  <!-- 描述：白字 + 深灰描边，放大 -->
+  <text x="125" y="102" font-family="'Hiragino Sans', -apple-system, sans-serif" font-size="21" font-weight="700" fill="white" stroke="#6B6B6B" stroke-width="1.8" paint-order="stroke" stroke-linejoin="round">公众号文章转 Markdown</text>
 
-  <!-- 语言标签 -->
-  <rect x="135" y="130" width="115" height="34" rx="17" fill="white"/>
-  <circle cx="156" cy="147" r="7" fill="#f1e05a"/>
-  <text x="170" y="153" font-family="'Arial Rounded MT Bold', -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#3D2B3A">JavaScript</text>
+  <!-- 语言标签：纯白胶囊，无圆点 -->
+  <rect x="125" y="135" width="120" height="36" rx="18" fill="white"/>
+  <text x="185" y="160" font-family="'Arial Rounded MT Bold', -apple-system, sans-serif" font-size="17" font-weight="bold" fill="#3D2B3A" text-anchor="middle">JavaScript</text>
 
-  <!-- 底部白色半圆凸起 + 三点 -->
-  <g clip-path="url(#cardclip_7)">
-    <ellipse cx="75" cy="245" rx="55" ry="25" fill="white"/>
-  </g>
-  <circle cx="55" cy="232" r="5" fill="#A9BE7C"/>
-  <circle cx="75" cy="232" r="5" fill="#A9BE7C"/>
-  <circle cx="95" cy="232" r="5" fill="#A9BE7C"/>
+  <!-- 三个白点，无围边 -->
+  <circle cx="50" cy="218" r="5.5" fill="white"/>
+  <circle cx="70" cy="218" r="5.5" fill="white"/>
+  <circle cx="90" cy="218" r="5.5" fill="white"/>
 </svg>
