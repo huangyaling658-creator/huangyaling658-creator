@@ -33,31 +33,34 @@
 
 ### 💕 创作工具
 
-<br/>
-
-**🎵 音乐**
-
-<a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="30%" /></a>
-
-<br/>
-
-**🎙 播客**
-
-<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="30%" /></a>
-
-<br/>
-
-**✍️ 图文**
-
-<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg" width="30%" /></a>
-
-<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="30%" /></a>
-
 </div>
+
+<table width="100%">
+<tr>
+<td width="100" align="center" valign="middle"><h3>🎵<br/>音乐</h3></td>
+<td>
+<a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="32%" /></a>
+</td>
+</tr>
+<tr>
+<td width="100" align="center" valign="middle"><h3>🎙<br/>播客</h3></td>
+<td>
+<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="32%" /></a>
+</td>
+</tr>
+<tr>
+<td width="100" align="center" valign="middle"><h3>✍️<br/>图文</h3></td>
+<td>
+<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg" width="32%" /></a>
+<br/>
+<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="32%" /></a>
+</td>
+</tr>
+</table>
 
 ---
 
