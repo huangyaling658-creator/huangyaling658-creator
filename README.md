@@ -22,8 +22,8 @@
 
 <br/>
 
-<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/SnapLingo.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/calorie"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/calorie.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/SnapLingo.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/calorie"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/calorie.svg?v=5" width="30%" /></a>
 
 </div>
 
@@ -39,25 +39,25 @@
 <tr>
 <td width="100" align="center" valign="middle"><h3>🎵<br/>音乐</h3></td>
 <td>
-<a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg" width="32%" /></a>
-<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="32%" /></a>
-<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg?v=5" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg?v=5" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg?v=5" width="32%" /></a>
 </td>
 </tr>
 <tr>
 <td width="100" align="center" valign="middle"><h3>✍️<br/>图文</h3></td>
 <td>
-<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="32%" /></a>
-<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg" width="32%" /></a>
-<a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg?v=5" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg?v=5" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg?v=5" width="32%" /></a>
 <br/>
-<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg?v=5" width="32%" /></a>
 </td>
 </tr>
 <tr>
 <td width="100" align="center" valign="middle"><h3>🎙<br/>播客</h3></td>
 <td>
-<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg?v=5" width="32%" /></a>
 </td>
 </tr>
 </table>
@@ -72,23 +72,23 @@
 
 **📄 PDF 工具**
 
-<a href="https://github.com/huangyaling658-creator/pdf-toolbox"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-toolbox.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/pdf-merger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-merger.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/pdf-toolbox"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-toolbox.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/pdf-merger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-merger.svg?v=5" width="30%" /></a>
 
 <br/>
 
 **🧰 更多**
 
-<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/ai-plan-assistant.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/voice-memory"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/voice-memory.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/image-stitcher.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/ai-plan-assistant.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/voice-memory"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/voice-memory.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/image-stitcher.svg?v=5" width="30%" /></a>
 
-<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/zh-opc-monitor.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/codebase-course-"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/codebase-course-.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/CoderWithAI"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/CoderWithAI.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/zh-opc-monitor.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/codebase-course-"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/codebase-course-.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/CoderWithAI"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/CoderWithAI.svg?v=5" width="30%" /></a>
 
-<a href="https://github.com/huangyaling658-creator/AI-Product-Manger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-Product-Manger.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/github-profile-generator"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/github-profile-generator.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/AI-Product-Manger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-Product-Manger.svg?v=5" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/github-profile-generator"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/github-profile-generator.svg?v=5" width="30%" /></a>
 
 </div>
 
