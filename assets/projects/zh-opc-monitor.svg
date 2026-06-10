@@ -1,19 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
   <defs>
     <linearGradient id="bg_15" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#C2D4A0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#A8BC82;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#C0CFA0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#AABB88;stop-opacity:1" />
     </linearGradient>
+    <clipPath id="clip_15">
+      <rect width="440" height="220" rx="22" ry="22"/>
+    </clipPath>
   </defs>
-  <rect width="420" height="200" rx="20" ry="20" fill="url(#bg_15)"/>
-  <circle cx="58" cy="58" r="30" fill="white" opacity="0.45"/>
-  <text x="58" y="68" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#4A3548" text-anchor="middle">O</text>
-  <text x="105" y="52" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="bold" font-style="italic" fill="#3D2B3A">OPC Monitor</text>
-  <text x="105" y="82" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#5A4558">OPC 信息监控</text>
-  <rect x="30" y="135" width="95" height="30" rx="15" fill="white" opacity="0.55"/>
-  <circle cx="49" cy="150" r="6" fill="#3572A5"/>
-  <text x="62" y="156" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="500" fill="#3D2B3A">Python</text>
-  <circle cx="30" cy="180" r="4" fill="white" opacity="0.5"/>
-  <circle cx="44" cy="180" r="4" fill="white" opacity="0.5"/>
-  <circle cx="58" cy="180" r="4" fill="white" opacity="0.5"/>
+  <rect width="440" height="220" rx="22" ry="22" fill="url(#bg_15)"/>
+  <g clip-path="url(#clip_15)">
+    <!-- letter circle, partially clipped at top-left -->
+    <circle cx="55" cy="55" r="38" fill="white" opacity="0.35"/>
+    <text x="55" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#4A3548" text-anchor="middle">O</text>
+    <!-- title -->
+    <text x="110" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="28" font-weight="800" fill="#3D2B3A">OPC Monitor</text>
+    <!-- description -->
+    <text x="110" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="17" fill="#5A4558">OPC 信息监控</text>
+    <!-- language badge -->
+    <rect x="30" y="140" width="110" height="34" rx="17" fill="white" opacity="0.5"/>
+    <circle cx="52" cy="157" r="7" fill="#3572A5"/>
+    <text x="67" y="163" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="16" font-weight="500" fill="#3D2B3A">Python</text>
+    <!-- three-dot bump -->
+    <ellipse cx="52" cy="220" rx="40" ry="18" fill="white" opacity="0.35"/>
+    <circle cx="36" cy="210" r="4.5" fill="white" opacity="0.7"/>
+    <circle cx="52" cy="210" r="4.5" fill="white" opacity="0.7"/>
+    <circle cx="68" cy="210" r="4.5" fill="white" opacity="0.7"/>
+  </g>
 </svg>
