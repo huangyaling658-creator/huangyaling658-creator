@@ -1,30 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250">
   <defs>
-    <linearGradient id="bg_10" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#DFA0B8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#D08AA8;stop-opacity:1" />
+    <linearGradient id="bg_10" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#E3A7BE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D5879F;stop-opacity:1" />
     </linearGradient>
-    <clipPath id="clip_10">
-      <rect width="440" height="220" rx="22" ry="22"/>
+    <clipPath id="cardclip_10">
+      <rect x="10" y="55" width="440" height="185" rx="22" ry="22"/>
     </clipPath>
   </defs>
-  <rect width="440" height="220" rx="22" ry="22" fill="url(#bg_10)"/>
-  <g clip-path="url(#clip_10)">
-    <!-- letter circle, partially clipped at top-left -->
-    <circle cx="55" cy="55" r="38" fill="white" opacity="0.35"/>
-    <text x="55" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" fill="#4A3548" text-anchor="middle">P</text>
-    <!-- title -->
-    <text x="110" y="56" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="28" font-weight="800" fill="#3D2B3A">PDF Toolbox</text>
-    <!-- description -->
-    <text x="110" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="17" fill="#5A4558">PDF 工具箱</text>
-    <!-- language badge -->
-    <rect x="30" y="140" width="110" height="34" rx="17" fill="white" opacity="0.5"/>
-    <circle cx="52" cy="157" r="7" fill="#3572A5"/>
-    <text x="67" y="163" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif" font-size="16" font-weight="500" fill="#3D2B3A">Python</text>
-    <!-- three-dot bump -->
-    <ellipse cx="52" cy="220" rx="40" ry="18" fill="white" opacity="0.35"/>
-    <circle cx="36" cy="210" r="4.5" fill="white" opacity="0.7"/>
-    <circle cx="52" cy="210" r="4.5" fill="white" opacity="0.7"/>
-    <circle cx="68" cy="210" r="4.5" fill="white" opacity="0.7"/>
+
+  <!-- 卡片主体 -->
+  <rect x="10" y="55" width="440" height="185" rx="22" ry="22" fill="url(#bg_10)"/>
+
+  <!-- 白色实心圆骑在顶边 -->
+  <circle cx="72" cy="55" r="36" fill="white"/>
+  <text x="72" y="68" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', Georgia, sans-serif" font-size="34" font-weight="bold" fill="#5B2A6E" text-anchor="middle">P</text>
+
+  <!-- 标题：贴纸描边效果，骑跨顶边 -->
+  <text x="125" y="68" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', sans-serif" font-size="32" font-weight="900" fill="#6B5B6B" stroke="white" stroke-width="6" paint-order="stroke" stroke-linejoin="round">PDF Toolbox</text>
+
+  <!-- 描述：小号，也带细描边 -->
+  <text x="125" y="96" font-family="'Hiragino Sans', -apple-system, sans-serif" font-size="16" font-weight="600" fill="#6B5B6B" stroke="white" stroke-width="3" paint-order="stroke" stroke-linejoin="round">PDF 工具箱</text>
+
+  <!-- 语言标签 -->
+  <rect x="135" y="130" width="115" height="34" rx="17" fill="white"/>
+  <circle cx="156" cy="147" r="7" fill="#3572A5"/>
+  <text x="170" y="153" font-family="'Arial Rounded MT Bold', -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#3D2B3A">Python</text>
+
+  <!-- 底部白色半圆凸起 + 三点 -->
+  <g clip-path="url(#cardclip_10)">
+    <ellipse cx="75" cy="245" rx="55" ry="25" fill="white"/>
   </g>
+  <circle cx="55" cy="232" r="5" fill="#D5879F"/>
+  <circle cx="75" cy="232" r="5" fill="#D5879F"/>
+  <circle cx="95" cy="232" r="5" fill="#D5879F"/>
 </svg>
