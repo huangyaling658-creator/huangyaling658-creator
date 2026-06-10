@@ -24,33 +24,13 @@
 
 <br/>
 
-<a href="https://github.com/huangyaling658-creator/music-slicer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=music-slicer&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/podcastcut-skills">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=podcastcut-skills&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
+<a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="30%" /></a>
 
-<a href="https://github.com/huangyaling658-creator/AI-music-analyse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=AI-music-analyse&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/album-cover-maker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=album-cover-maker&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-
-<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=wechat-article-for-ai&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/RED-writing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=RED-writing&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-
-<a href="https://github.com/huangyaling658-creator/-_editor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=-_editor&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
+<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="30%" /></a>
 
 </div>
 
@@ -64,21 +44,11 @@
 
 <br/>
 
-<a href="https://github.com/huangyaling658-creator/pdf-toolbox">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=pdf-toolbox&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/image-stitcher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=image-stitcher&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
+<a href="https://github.com/huangyaling658-creator/pdf-toolbox"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-toolbox.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/image-stitcher.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/SnapLingo.svg" width="30%" /></a>
 
-<a href="https://github.com/huangyaling658-creator/SnapLingo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=SnapLingo&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/voice-memory">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=voice-memory&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
+<a href="https://github.com/huangyaling658-creator/voice-memory"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/voice-memory.svg" width="30%" /></a>
 
 </div>
 
@@ -92,13 +62,8 @@
 
 <br/>
 
-<a href="https://github.com/huangyaling658-creator/zh-opc-monitor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=zh-opc-monitor&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
-&ensp;
-<a href="https://github.com/huangyaling658-creator/huashu-skills">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=huashu-skills&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
-</a>
+<a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/zh-opc-monitor.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="30%" /></a>
 
 </div>
 
