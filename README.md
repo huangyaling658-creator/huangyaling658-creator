@@ -18,19 +18,44 @@
 
 <div align="center">
 
-### 💕 AI 创作工具链
-
-围绕音乐、播客、小红书、公众号的内容创作全链路
+### 💕 已上线作品
 
 <br/>
+
+<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/SnapLingo.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/calorie"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/calorie.svg" width="30%" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💕 创作工具
+
+<br/>
+
+**🎵 音乐**
 
 <a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="30%" /></a>
 
-<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg" width="30%" /></a>&ensp;
+<br/>
+
+**🎙 播客**
+
+<a href="https://github.com/huangyaling658-creator/podcastcut-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/podcastcut-skills.svg" width="30%" /></a>
+
+<br/>
+
+**✍️ 图文**
+
+<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="30%" /></a>&ensp;
 <a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg" width="30%" /></a>
+
+<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="30%" /></a>
 
 </div>
 
@@ -38,32 +63,29 @@
 
 <div align="center">
 
-### 💕 实用工具
-
-日常提效的独立小工具
+### 💕 其他工具
 
 <br/>
+
+**📄 PDF 工具**
 
 <a href="https://github.com/huangyaling658-creator/pdf-toolbox"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-toolbox.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/image-stitcher.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/SnapLingo"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/SnapLingo.svg" width="30%" /></a>
-
-<a href="https://github.com/huangyaling658-creator/voice-memory"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/voice-memory.svg" width="30%" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💕 Claude Code Skills
-
-为 Claude Code 生态打造的可复用技能
+<a href="https://github.com/huangyaling658-creator/pdf-merger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/pdf-merger.svg" width="30%" /></a>
 
 <br/>
 
+**🧰 更多**
+
+<a href="https://github.com/huangyaling658-creator/ai-plan-assistant"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/ai-plan-assistant.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/voice-memory"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/voice-memory.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/image-stitcher"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/image-stitcher.svg" width="30%" /></a>
+
 <a href="https://github.com/huangyaling658-creator/zh-opc-monitor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/zh-opc-monitor.svg" width="30%" /></a>&ensp;
-<a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg" width="30%" /></a>
+<a href="https://github.com/huangyaling658-creator/codebase-course-"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/codebase-course-.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/CoderWithAI"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/CoderWithAI.svg" width="30%" /></a>
+
+<a href="https://github.com/huangyaling658-creator/AI-Product-Manger"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-Product-Manger.svg" width="30%" /></a>&ensp;
+<a href="https://github.com/huangyaling658-creator/github-profile-generator"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/github-profile-generator.svg" width="30%" /></a>
 
 </div>
 

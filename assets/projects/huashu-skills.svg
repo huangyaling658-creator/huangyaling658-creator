@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="170" viewBox="0 0 380 170">
   <defs>
-    <linearGradient id="bg_11" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E8A8C0;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#D4829E;stop-opacity:1" />
+    <linearGradient id="bg_9" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C2D4A0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#A8BC82;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="380" height="170" rx="18" ry="18" fill="url(#bg_11)"/>
+  <rect width="380" height="170" rx="18" ry="18" fill="url(#bg_9)"/>
   <circle cx="52" cy="52" r="26" fill="white" opacity="0.45"/>
   <text x="52" y="60" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#4A3548" text-anchor="middle">H</text>
   <text x="95" y="50" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="bold" font-style="italic" fill="#3D2B3A">Huashu Skills</text>

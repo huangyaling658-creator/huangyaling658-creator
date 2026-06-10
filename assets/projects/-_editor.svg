@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="170" viewBox="0 0 380 170">
   <defs>
-    <linearGradient id="bg_4" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_8" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#E8A8C0;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#D4829E;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="380" height="170" rx="18" ry="18" fill="url(#bg_4)"/>
+  <rect width="380" height="170" rx="18" ry="18" fill="url(#bg_8)"/>
   <circle cx="52" cy="52" r="26" fill="white" opacity="0.45"/>
-  <text x="52" y="60" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#4A3548" text-anchor="middle">A</text>
-  <text x="95" y="50" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="bold" font-style="italic" fill="#3D2B3A">Album Cover</text>
-  <text x="95" y="75" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#5A4558">专辑封面制作器</text>
+  <text x="52" y="60" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#4A3548" text-anchor="middle">花</text>
+  <text x="95" y="50" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="bold" font-style="italic" fill="#3D2B3A">花生排版器</text>
+  <text x="95" y="75" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#5A4558">公众号排版工具</text>
   <rect x="28" y="115" width="80" height="26" rx="13" fill="white" opacity="0.55"/>
   <circle cx="44" cy="128" r="5" fill="#e34c26"/>
   <text x="55" y="133" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="500" fill="#3D2B3A">HTML</text>
