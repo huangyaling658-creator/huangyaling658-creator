@@ -14,10 +14,10 @@
   <text x="72" y="68" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', Georgia, sans-serif" font-size="34" font-weight="bold" fill="#5B2A6E" text-anchor="middle">M</text>
 
   <!-- 标题：白字 + 深灰描边 -->
-  <text x="125" y="70" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', sans-serif" font-size="34" font-weight="900" fill="white" stroke="#6B6B6B" stroke-width="2.5" paint-order="stroke" stroke-linejoin="round">Music Slicer</text>
+  <text x="125" y="70" font-family="'Arial Rounded MT Bold', 'Hiragino Sans', sans-serif" font-size="34" font-weight="900" fill="white" stroke="#3A3A3A" stroke-width="5" paint-order="stroke" stroke-linejoin="round">Music Slicer</text>
 
   <!-- 描述：白字 + 深灰描边，放大 -->
-  <text x="125" y="102" font-family="'Hiragino Sans', -apple-system, sans-serif" font-size="21" font-weight="700" fill="white" stroke="#6B6B6B" stroke-width="1.8" paint-order="stroke" stroke-linejoin="round">音频切片工具</text>
+  <text x="125" y="102" font-family="'Hiragino Sans', -apple-system, sans-serif" font-size="21" font-weight="700" fill="white" stroke="#3A3A3A" stroke-width="3.5" paint-order="stroke" stroke-linejoin="round">音频切片工具</text>
 
   <!-- 语言标签：纯白胶囊，无圆点 -->
   <rect x="125" y="135" width="120" height="36" rx="18" fill="white"/>
