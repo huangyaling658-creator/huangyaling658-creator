@@ -36,8 +36,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=AI-music-analyse&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
 </a>
 &ensp;
-<a href="https://github.com/huangyaling658-creator/xhs-cover-maker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=xhs-cover-maker&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
+<a href="https://github.com/huangyaling658-creator/album-cover-maker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=huangyaling658-creator&repo=album-cover-maker&theme=dracula&bg_color=1A0D2E&title_color=E8829A&icon_color=C4527A&text_color=D4C1D9&border_color=3D1558" />
 </a>
 
 <a href="https://github.com/huangyaling658-creator/wechat-article-for-ai">
