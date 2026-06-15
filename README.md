@@ -50,7 +50,7 @@
 <a href="https://github.com/huangyaling658-creator/RED-writing"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/RED-writing.svg?v=7" width="32%" /></a>
 <a href="https://github.com/huangyaling658-creator/wechat-article-for-ai"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/wechat-article-for-ai.svg?v=7" width="32%" /></a><br/>
 <a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg?v=7" width="32%" /></a>
-<a href="https://editor.santaya.chat"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/santaya-editor.svg?v=7" width="32%" /></a>
+<a href="http://editor.santaya.chat"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/santaya-editor.svg?v=7" width="32%" /></a>
 </td>
 </tr>
 <tr>
