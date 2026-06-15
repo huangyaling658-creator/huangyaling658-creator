@@ -52,6 +52,7 @@
 <a href="https://github.com/huangyaling658-creator/-_editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/-_editor.svg?v=7" width="32%" /></a>
 <br/>
 <a href="https://github.com/huangyaling658-creator/huashu-skills"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/huashu-skills.svg?v=7" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/santaya-editor"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/santaya-editor.svg?v=7" width="32%" /></a>
 </td>
 </tr>
 <tr>
