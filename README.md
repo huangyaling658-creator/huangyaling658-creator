@@ -41,7 +41,8 @@
 <td>
 <a href="https://github.com/huangyaling658-creator/music-slicer"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-slicer.svg?v=7" width="32%" /></a>
 <a href="https://github.com/huangyaling658-creator/AI-music-analyse"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/AI-music-analyse.svg?v=7" width="32%" /></a>
-<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg?v=7" width="32%" /></a>
+<a href="https://github.com/huangyaling658-creator/album-cover-maker"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/album-cover-maker.svg?v=7" width="32%" /></a><br/>
+<a href="https://github.com/huangyaling658-creator/music-mv"><img src="https://raw.githubusercontent.com/huangyaling658-creator/huangyaling658-creator/main/assets/projects/music-mv.svg?v=1" width="32%" /></a>
 </td>
 </tr>
 <tr>
